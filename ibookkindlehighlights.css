@@ -1,1 +1,12 @@
-
+[data-rem-tags~="kindlepink"] > div > span > div.rem-text{
+background:#FFC2F5 !important;
+}
+[data-rem-tags~="kindleyellow"] > div > span > div.rem-text{
+background:#F2E366 !important;
+}
+[data-rem-tags~="kindleorange"] > div > span > div.rem-text{
+background:#FCB85E !important;
+}
+[data-rem-tags~="kindleblue"] > div > span > div.rem-text{
+background:#a5d7f4 !important;
+}
