@@ -10,3 +10,22 @@ background:#FCB85E !important;
 [data-rem-tags~="kindleblue"] > div > span > div.rem-text{
 background:#a5d7f4 !important;
 }
+[data-rem-tags~="ibookyellow"] > div > span > div.rem-text{
+background:#FEEB6B !important;
+}
+[data-rem-tags~="ibookgreen"] > div > span > div.rem-text{
+background:#C1ED72 !important;
+}
+[data-rem-tags~="ibookblue"] > div > span > div.rem-text{
+background:#FBFBFB !important;
+}
+[data-rem-tags~="ibookpink"] > div > span > div.rem-text{
+background:#FFB1CB !important;
+}
+[data-rem-tags~="ibookpurple"] > div > span > div.rem-text{
+background:#D8B2FF !important;
+}
+[data-rem-tags~="ibookunderline"] > div > span > div.rem-text{
+text-decoration: underline;
+    text-decoration-color: #FF0C0C;
+}
