@@ -34,7 +34,7 @@ font-size: 22px;
     font-weight: bold;
 }
 [data-rem-container-tags~="kindlepage"]{
-margin-top: 5px;
+margin-top: 20px;
     box-shadow: #6b7883 0px 0px 1px;
     padding: 5px;
     border-radius: 5px;
