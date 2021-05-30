@@ -29,3 +29,12 @@ background:#D8B2FF !important;
 text-decoration: underline;
     text-decoration-color: #FF0C0C;
 }
+[data-rem-tags~="kindlepage"] > div > span > div.rem-text{
+font-size: 22px;
+    font-weight: bold;
+}
+[data-rem-container-tags~="kindlepage"] > div > span > div.rem-text{
+border: #6b7883 solid 2px;
+    padding: 5px;
+    border-radius: 5px;
+}
