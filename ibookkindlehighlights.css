@@ -33,7 +33,7 @@ text-decoration: underline;
 font-size: 22px;
     font-weight: bold;
 }
-[data-rem-container-tags~="kindlepage"] > div > span > div.rem-text{
+[data-rem-container-tags~="kindlepage"]{
 border: #6b7883 solid 2px;
     padding: 5px;
     border-radius: 5px;
