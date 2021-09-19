@@ -10,6 +10,9 @@ background:#99CCFF !important;
 [data-rem-tags~="readwisered"]{
 background:#FF99CC !important;
 }
+[data-rem-tags~="readwisepink"]{
+background:#F8B2BC !important;
+}
 /* [data-rem-tags~="kindlepage"] > div > span > div.rem-text{
 font-size: 22px;
     font-weight: bold;
