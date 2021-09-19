@@ -1,0 +1,22 @@
+[data-rem-tags~="readwiseyellow"]{
+background:#FFFFCC !important;
+}
+[data-rem-tags~="readwiseorange"]{
+background:#F3C08C !important;
+}
+[data-rem-tags~="readwiseblue"]{
+background:#99CCFF !important;
+}
+[data-rem-tags~="readwisered"]{
+background:#FF99CC !important;
+}
+/* [data-rem-tags~="kindlepage"] > div > span > div.rem-text{
+font-size: 22px;
+    font-weight: bold;
+} */
+[data-rem-container-tags~="readwisepage"]{
+margin-bottom: 20px;
+    box-shadow: #6b7883 0px 0px 1px;
+    padding: 5px;
+    border-radius: 5px;
+}
